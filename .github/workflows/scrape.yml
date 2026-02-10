@@ -1,0 +1,30 @@
+name: Update shelter data
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # 10:00 AM Oregon (PST)
+    - cron: "0 20 * * *"   # 12:00 PM Oregon (PST)
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - run: npm ci
+
+      - run: node scraper.js
+
+      - name: Commit updated data
+        run: |
+          git config user.name "lanehelp-bot"
+          git config user.email "bot@lanehelp.local"
+          git add shelter-data.json
+          git commit -m "Update shelter availability" || echo "No changes"
+          git push

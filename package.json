@@ -1,0 +1,25 @@
+{
+  "name": "shelter",
+  "version": "1.0.0",
+  "description": "Lane County shelter bed availability scraper",
+  "type": "module",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js",
+    "dev": "nodemon scraper.js"
+  },
+  "keywords": [
+    "shelter",
+    "scraper",
+    "lane-county"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
