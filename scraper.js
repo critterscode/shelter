@@ -83,5 +83,10 @@ scrapeBeds().then((data) => {
   
   // Save to JSON file
   writeFileSync("shelter-data.json", JSON.stringify(data, null, 2));
-  console.log("\n✅ Data saved to shelter-data.json");
+  
+  const count = data.length;
+  console.log(`\n✅ Data saved to shelter-data.json (${count} shelters)`);
+  
+  // Write count for GitHub Action
+  writeFileSync("shelter-count.txt", count.toString());
 });
