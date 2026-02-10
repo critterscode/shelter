@@ -1,8 +1,36 @@
 import fetch from "node-fetch";
 import * as cheerio from "cheerio";
-import { writeFileSync } from "fs";
+import { writeFileSync, readFileSync, existsSync } from "fs";
 
 const URL = "https://apps.lanecountyor.gov/hhs/Health/Shelter/Availability";
+
+function summarizeChanges(oldData, newData) {
+  const oldMap = new Map(oldData.map(s => [s.shelter, s]));
+  const changes = [];
+
+  for (const s of newData) {
+    const prev = oldMap.get(s.shelter);
+    if (!prev) {
+      // New shelter appeared
+      if (s.units > 0) {
+        changes.push(`• ${s.shelter}: NEW (${s.units} beds)`);
+      }
+      continue;
+    }
+
+    const diffs = [];
+
+    if (prev.units !== s.units) {
+      diffs.push(`beds ${prev.units} → ${s.units}`);
+    }
+
+    if (diffs.length) {
+      changes.push(`• ${s.shelter}: ${diffs.join(", ")}`);
+    }
+  }
+
+  return changes;
+}
 
 // Hardcoded shelter contact information
 const SHELTER_INFO = {
@@ -78,15 +106,36 @@ async function scrapeBeds() {
   return rows;
 }
 
-scrapeBeds().then((data) => {
-  console.log(data);
+scrapeBeds().then((newData) => {
+  console.log(newData);
+  
+  // Load old data if it exists
+  let oldData = [];
+  if (existsSync("shelter-data.json")) {
+    try {
+      oldData = JSON.parse(readFileSync("shelter-data.json", "utf-8"));
+    } catch (e) {
+      console.log("Could not parse old data");
+    }
+  }
+  
+  // Compare and summarize changes
+  const changes = summarizeChanges(oldData, newData);
   
   // Save to JSON file
-  writeFileSync("shelter-data.json", JSON.stringify(data, null, 2));
+  writeFileSync("shelter-data.json", JSON.stringify(newData, null, 2));
   
-  const count = data.length;
+  const count = newData.length;
   console.log(`\n✅ Data saved to shelter-data.json (${count} shelters)`);
   
-  // Write count for GitHub Action
+  // Write count and changes for GitHub Action
   writeFileSync("shelter-count.txt", count.toString());
+  
+  if (changes.length > 0) {
+    writeFileSync("shelter-changes.txt", changes.join("\n"));
+    console.log(`\n📊 ${changes.length} changes detected`);
+  } else {
+    writeFileSync("shelter-changes.txt", "");
+    console.log("\n📊 No changes detected");
+  }
 });

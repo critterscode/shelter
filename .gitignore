@@ -1,2 +1,4 @@
 node_modules/
 .DS_Store
+shelter-count.txt
+shelter-changes.txt

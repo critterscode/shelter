@@ -33,10 +33,36 @@ jobs:
       - name: Notify Telegram if changed
         if: steps.diff.outputs.changed == 'true'
         run: |
-          COUNT=$(cat shelter-count.txt)
+          # Get Pacific time
+          TIMESTAMP=$(TZ=America/Los_Angeles date '+%a %-I:%M %p %Z')
+          
+          # Read changes
+          CHANGES=$(cat shelter-changes.txt)
+          CHANGE_COUNT=$(echo "$CHANGES" | wc -l | tr -d ' ')
+          
+          # Build preview (first 6 lines)
+          PREVIEW=$(echo "$CHANGES" | head -6)
+          
+          # Build message
+          MESSAGE="✅ LaneHelp update
+$CHANGE_COUNT changes
+
+$PREVIEW"
+          
+          # Add "more" line if needed
+          if [ $CHANGE_COUNT -gt 6 ]; then
+            MORE=$((CHANGE_COUNT - 6))
+            MESSAGE="$MESSAGE
+…+$MORE more"
+          fi
+          
+          MESSAGE="$MESSAGE
+
+$TIMESTAMP"
+          
           curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
             -d chat_id="${{ secrets.TELEGRAM_CHAT_ID }}" \
-            -d text="✅ LaneHelp: shelter bed data changed. Rows: $COUNT ($(date -u))"
+            -d text="$MESSAGE"
 
       - name: Commit updated data
         if: steps.diff.outputs.changed == 'true'
