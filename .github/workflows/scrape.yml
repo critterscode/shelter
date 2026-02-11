@@ -6,6 +6,9 @@ on:
     - cron: "0 20 * * *"   # 12:00 PM Oregon (PST)
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
