@@ -44,16 +44,17 @@ jobs:
             
             if [ $CHANGE_COUNT -gt 6 ]; then
               MORE=$((CHANGE_COUNT - 6))
-              MESSAGE="✅ LaneHelp update"$'\n'"$CHANGE_COUNT changes"$'\n\n'"$PREVIEW"$'\n'"…+$MORE more"$'\n\n'"$TIMESTAMP"
+              MESSAGE="<b>🏠 LaneHelp Update</b>"$'\n'"<b>$CHANGE_COUNT changes detected</b>"$'\n\n'"<code>$PREVIEW</code>"$'\n'"<i>…+$MORE more</i>"$'\n\n'"⏰ $TIMESTAMP"
             else
-              MESSAGE="✅ LaneHelp update"$'\n'"$CHANGE_COUNT changes"$'\n\n'"$PREVIEW"$'\n\n'"$TIMESTAMP"
+              MESSAGE="<b>🏠 LaneHelp Update</b>"$'\n'"<b>$CHANGE_COUNT changes detected</b>"$'\n\n'"<code>$PREVIEW</code>"$'\n\n'"⏰ $TIMESTAMP"
             fi
           else
-            MESSAGE="✅ LaneHelp check-in"$'\n'"No changes at the moment!"$'\n\n'"$TIMESTAMP"
+            MESSAGE="<b>🏠 LaneHelp Check-In</b>"$'\n'"<i>No changes at the moment</i>"$'\n\n'"⏰ $TIMESTAMP"
           fi
           
           curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
             -d chat_id="${{ secrets.TELEGRAM_CHAT_ID }}" \
+            -d parse_mode="HTML" \
             -d text="$MESSAGE"
 
       - name: Commit updated data
