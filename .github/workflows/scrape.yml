@@ -2,7 +2,6 @@ name: Update shelter data
 
 on:
   schedule:
-    - cron: "3 4 * * *"   # 8:03 PM Oregon (PST) - TEST
     - cron: "0 18 * * *"   # 10:00 AM Oregon (PST)
     - cron: "0 20 * * *"   # 12:00 PM Oregon (PST)
   workflow_dispatch:
