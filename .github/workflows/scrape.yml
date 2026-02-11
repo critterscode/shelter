@@ -36,40 +36,21 @@ jobs:
 
       - name: Notify Telegram
         run: |
-          # Get Pacific time
           TIMESTAMP=$(TZ=America/Los_Angeles date '+%a %-I:%M %p %Z')
           
-          # Check if there were changes
           if [ "${{ steps.diff.outputs.changed }}" == "true" ]; then
-            # Read changes
             CHANGES=$(cat shelter-changes.txt)
             CHANGE_COUNT=$(echo "$CHANGES" | wc -l | tr -d ' ')
-            
-            # Build preview (first 6 lines)
             PREVIEW=$(echo "$CHANGES" | head -6)
             
-            # Build message with changes
-            MESSAGE="✅ LaneHelp update
-$CHANGE_COUNT changes
-
-$PREVIEW"
-            
-            # Add "more" line if needed
             if [ $CHANGE_COUNT -gt 6 ]; then
               MORE=$((CHANGE_COUNT - 6))
-              MESSAGE="$MESSAGE
-…+$MORE more"
+              MESSAGE="✅ LaneHelp update"$'\n'"$CHANGE_COUNT changes"$'\n\n'"$PREVIEW"$'\n'"…+$MORE more"$'\n\n'"$TIMESTAMP"
+            else
+              MESSAGE="✅ LaneHelp update"$'\n'"$CHANGE_COUNT changes"$'\n\n'"$PREVIEW"$'\n\n'"$TIMESTAMP"
             fi
-            
-            MESSAGE="$MESSAGE
-
-$TIMESTAMP"
           else
-            # No changes message
-            MESSAGE="✅ LaneHelp check-in
-No changes at the moment!
-
-$TIMESTAMP"
+            MESSAGE="✅ LaneHelp check-in"$'\n'"No changes at the moment!"$'\n\n'"$TIMESTAMP"
           fi
           
           curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
