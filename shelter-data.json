@@ -7,18 +7,18 @@
     "updated": ""
   },
   {
+    "shelter": "*Eugene Mission Rescue Shelter",
+    "units": 7,
+    "phone": "541-344-3251",
+    "address": "1542 W 1st Ave",
+    "updated": "2/11/2026\n                            \n                            \n                                7:17 AM"
+  },
+  {
     "shelter": "*Station 7",
     "units": 6,
     "phone": "541-689-3111",
     "address": "931 W 7th Ave",
     "updated": "2/9/2026\n                            \n                            \n                                7:10 AM"
-  },
-  {
-    "shelter": "*Eugene Mission Rescue Shelter",
-    "units": 6,
-    "phone": "541-344-3251",
-    "address": "1542 W 1st Ave",
-    "updated": "2/9/2026\n                            \n                            \n                                8:49 AM"
   },
   {
     "shelter": "*Dusk to Dawn",
@@ -39,7 +39,7 @@
     "units": 0,
     "phone": "541-461-2845",
     "address": "780 Highway 99 N",
-    "updated": "2/10/2026\n                            \n                            \n                                7:18 AM"
+    "updated": "2/11/2026\n                            \n                            \n                                8:08 AM"
   },
   {
     "shelter": "Roosevelt Safe Spot Community",
@@ -81,7 +81,7 @@
     "units": 0,
     "phone": "541-897-9771",
     "address": "100 River Ave",
-    "updated": "2/10/2026\n                            \n                            \n                                8:14 AM"
+    "updated": "2/11/2026\n                            \n                            \n                                7:53 AM"
   },
   {
     "shelter": "Brooklyn Street",
@@ -95,7 +95,7 @@
     "units": 0,
     "phone": "541-525-0501",
     "address": "111 N Garfield St",
-    "updated": "2/9/2026\n                            \n                            \n                                9:31 AM"
+    "updated": "2/11/2026\n                            \n                            \n                                10:11 AM"
   },
   {
     "shelter": "410 Garfield Safe Sleep Site",
@@ -123,14 +123,14 @@
     "units": 0,
     "phone": "541-342-4293",
     "address": "2517 MLK Blvd",
-    "updated": "2/10/2026\n                            \n                            \n                                7:26 AM"
+    "updated": "2/11/2026\n                            \n                            \n                                8:12 AM"
   },
   {
     "shelter": "*OASIS Emergency Family Shelter",
     "units": 0,
     "phone": "541-345-3628",
     "address": "1175 G St",
-    "updated": "2/10/2026\n                            \n                            \n                                9:05 AM"
+    "updated": "2/11/2026\n                            \n                            \n                                8:29 AM"
   },
   {
     "shelter": "Ann`s Heart Women`s Shelter",
