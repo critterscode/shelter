@@ -7,39 +7,32 @@
     "updated": ""
   },
   {
-    "shelter": "*Eugene Mission Rescue Shelter",
-    "units": 14,
-    "phone": "541-344-3251",
-    "address": "1542 W 1st Ave",
-    "updated": "2/13/2026\n                            \n                            \n                                7:12 AM"
-  },
-  {
     "shelter": "*Station 7",
-    "units": 9,
+    "units": 8,
     "phone": "541-689-3111",
     "address": "931 W 7th Ave",
-    "updated": "2/14/2026\n                            \n                            \n                                6:16 AM"
+    "updated": "2/16/2026\n                            \n                            \n                                7:24 AM"
   },
   {
-    "shelter": "Overnight Parking Program EUGENE",
-    "units": 1,
-    "phone": "541-461-8688",
-    "address": "450 Highway 99 N",
-    "updated": "2/13/2026\n                            \n                            \n                                9:44 AM"
+    "shelter": "*Eugene Mission Rescue Shelter",
+    "units": 8,
+    "phone": "541-344-3251",
+    "address": "1542 W 1st Ave",
+    "updated": "2/16/2026\n                            \n                            \n                                8:16 AM"
   },
   {
     "shelter": "*Dusk to Dawn",
     "units": 1,
     "phone": "541-461-8688",
     "address": "717 Highway 99 N",
-    "updated": "2/13/2026\n                            \n                            \n                                9:44 AM"
+    "updated": "2/16/2026\n                            \n                            \n                                10:56 AM"
   },
   {
-    "shelter": "*1st Place Family Annex",
-    "units": 0,
-    "phone": "541-342-7728",
-    "address": "4060 W Amazon Dr",
-    "updated": "2/12/2026\n                            \n                            \n                                9:28 AM"
+    "shelter": "Overnight Parking Program EUGENE",
+    "units": 1,
+    "phone": "541-461-8688",
+    "address": "450 Highway 99 N",
+    "updated": "2/16/2026\n                            \n                            \n                                10:53 AM"
   },
   {
     "shelter": "ShelterCare Medical Respite",
@@ -63,6 +56,13 @@
     "updated": "2/12/2026\n                            \n                            \n                                7:00 AM"
   },
   {
+    "shelter": "*1st Place Family Annex",
+    "units": 0,
+    "phone": "541-342-7728",
+    "address": "4060 W Amazon Dr",
+    "updated": "2/15/2026\n                            \n                            \n                                3:28 PM"
+  },
+  {
     "shelter": "Community Supported Shelters",
     "units": 0,
     "phone": "541-683-0836",
@@ -74,7 +74,7 @@
     "units": 0,
     "phone": "541-357-1220",
     "address": "310 Garfield St",
-    "updated": "2/13/2026\n                            \n                            \n                                9:43 AM"
+    "updated": "2/16/2026\n                            \n                            \n                                10:54 AM"
   },
   {
     "shelter": "River Ave Navigation Center",
@@ -95,14 +95,14 @@
     "units": 0,
     "phone": "541-525-0501",
     "address": "111 N Garfield St",
-    "updated": "2/14/2026\n                            \n                            \n                                9:37 AM"
+    "updated": "2/16/2026\n                            \n                            \n                                9:37 AM"
   },
   {
     "shelter": "410 Garfield Safe Sleep Site",
     "units": 0,
     "phone": "541-359-9860",
     "address": "410 Garfield St",
-    "updated": "2/13/2026\n                            \n                            \n                                9:43 AM"
+    "updated": "2/16/2026\n                            \n                            \n                                10:52 AM"
   },
   {
     "shelter": "Everyone Village",
