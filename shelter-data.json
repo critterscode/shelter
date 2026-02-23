@@ -8,17 +8,17 @@
   },
   {
     "shelter": "*Eugene Mission Rescue Shelter",
-    "units": 10,
+    "units": 11,
     "phone": "541-344-3251",
     "address": "1542 W 1st Ave",
-    "updated": "2/20/2026\n                            \n                            \n                                7:17 AM"
+    "updated": "2/23/2026\n                            \n                            \n                                8:49 AM"
   },
   {
     "shelter": "*Station 7",
     "units": 8,
     "phone": "541-689-3111",
     "address": "931 W 7th Ave",
-    "updated": "2/21/2026\n                            \n                            \n                                10:51 AM"
+    "updated": "2/22/2026\n                            \n                            \n                                5:59 PM"
   },
   {
     "shelter": "*Dusk to Dawn",
@@ -39,7 +39,7 @@
     "units": 0,
     "phone": "541-461-2845",
     "address": "780 Highway 99 N",
-    "updated": "2/20/2026\n                            \n                            \n                                7:43 AM"
+    "updated": "2/23/2026\n                            \n                            \n                                10:12 AM"
   },
   {
     "shelter": "Roosevelt Safe Spot Community",
@@ -137,6 +137,6 @@
     "units": 0,
     "phone": "541-897-9764",
     "address": "PO Box 499",
-    "updated": "2/22/2026\n                            \n                            \n                                7:16 AM"
+    "updated": "2/23/2026\n                            \n                            \n                                6:08 AM"
   }
 ]
