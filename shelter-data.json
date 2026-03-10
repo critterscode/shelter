@@ -8,17 +8,17 @@
   },
   {
     "shelter": "*Eugene Mission Rescue Shelter",
-    "units": 9,
+    "units": 6,
     "phone": "541-344-3251",
     "address": "1542 W 1st Ave",
-    "updated": "3/9/2026\n                            \n                            \n                                8:40 AM"
+    "updated": "3/10/2026\n                            \n                            \n                                7:52 AM"
   },
   {
     "shelter": "*Station 7",
-    "units": 6,
+    "units": 5,
     "phone": "541-689-3111",
     "address": "931 W 7th Ave",
-    "updated": "3/9/2026\n                            \n                            \n                                8:27 AM"
+    "updated": "3/10/2026\n                            \n                            \n                                9:39 AM"
   },
   {
     "shelter": "*Dusk to Dawn",
@@ -53,21 +53,21 @@
     "units": 0,
     "phone": "541-683-0836",
     "address": "2031 Roosevelt Blvd",
-    "updated": "3/5/2026\n                            \n                            \n                                11:22 AM"
+    "updated": "3/10/2026\n                            \n                            \n                                7:15 AM"
   },
   {
     "shelter": "Community Supported Shelters - Veterans Safe Spot Community",
     "units": 0,
     "phone": "541-683-0836",
     "address": "1160 Grant St",
-    "updated": "3/5/2026\n                            \n                            \n                                11:22 AM"
+    "updated": "3/10/2026\n                            \n                            \n                                7:15 AM"
   },
   {
     "shelter": "Community Supported Shelters",
     "units": 0,
     "phone": "541-683-0836",
     "address": "1160 Grant St",
-    "updated": "3/5/2026\n                            \n                            \n                                11:22 AM"
+    "updated": "3/10/2026\n                            \n                            \n                                7:15 AM"
   },
   {
     "shelter": "310 Garfield Safe Sleep Site",
@@ -88,7 +88,7 @@
     "units": 0,
     "phone": "541-606-4093",
     "address": "1545 Brooklyn St",
-    "updated": "3/4/2026\n                            \n                            \n                                2:24 PM"
+    "updated": "3/10/2026\n                            \n                            \n                                8:52 AM"
   },
   {
     "shelter": "Opportunity Village Eugene (SquareOne Villages)",
@@ -123,20 +123,20 @@
     "units": 0,
     "phone": "541-342-4293",
     "address": "2517 MLK Blvd",
-    "updated": "3/7/2026\n                            \n                            \n                                12:48 AM"
+    "updated": "3/9/2026\n                            \n                            \n                                2:38 PM"
   },
   {
     "shelter": "*OASIS Emergency Family Shelter",
     "units": 0,
     "phone": "541-345-3628",
     "address": "1175 G St",
-    "updated": "3/9/2026\n                            \n                            \n                                9:20 AM"
+    "updated": "3/10/2026\n                            \n                            \n                                8:27 AM"
   },
   {
     "shelter": "Ann`s Heart Women`s Shelter",
     "units": 0,
     "phone": "541-897-9764",
     "address": "PO Box 499",
-    "updated": "3/7/2026\n                            \n                            \n                                8:06 PM"
+    "updated": "3/10/2026\n                            \n                            \n                                9:36 AM"
   }
 ]
