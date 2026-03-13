@@ -7,6 +7,13 @@
     "updated": ""
   },
   {
+    "shelter": "*Eugene Mission Rescue Shelter",
+    "units": 9,
+    "phone": "541-344-3251",
+    "address": "1542 W 1st Ave",
+    "updated": "3/13/2026\n                            \n                            \n                                7:56 AM"
+  },
+  {
     "shelter": "*Station 7",
     "units": 5,
     "phone": "541-689-3111",
@@ -14,18 +21,11 @@
     "updated": "3/12/2026\n                            \n                            \n                                6:26 AM"
   },
   {
-    "shelter": "*Eugene Mission Rescue Shelter",
-    "units": 3,
-    "phone": "541-344-3251",
-    "address": "1542 W 1st Ave",
-    "updated": "3/12/2026\n                            \n                            \n                                8:10 AM"
-  },
-  {
     "shelter": "*Dusk to Dawn",
-    "units": 1,
+    "units": 2,
     "phone": "541-461-8688",
     "address": "717 Highway 99 N",
-    "updated": "3/12/2026\n                            \n                            \n                                8:31 AM"
+    "updated": "3/13/2026\n                            \n                            \n                                8:45 AM"
   },
   {
     "shelter": "*1st Place Family Annex",
@@ -39,14 +39,14 @@
     "units": 0,
     "phone": "541-461-8688",
     "address": "450 Highway 99 N",
-    "updated": "3/12/2026\n                            \n                            \n                                8:30 AM"
+    "updated": "3/13/2026\n                            \n                            \n                                8:45 AM"
   },
   {
     "shelter": "ShelterCare Medical Respite",
     "units": 0,
     "phone": "541-461-2845",
     "address": "780 Highway 99 N",
-    "updated": "3/12/2026\n                            \n                            \n                                9:00 AM"
+    "updated": "3/13/2026\n                            \n                            \n                                8:31 AM"
   },
   {
     "shelter": "Roosevelt Safe Spot Community",
@@ -74,14 +74,14 @@
     "units": 0,
     "phone": "541-357-1220",
     "address": "310 Garfield St",
-    "updated": "3/12/2026\n                            \n                            \n                                8:31 AM"
+    "updated": "3/13/2026\n                            \n                            \n                                8:44 AM"
   },
   {
     "shelter": "River Ave Navigation Center",
     "units": 0,
     "phone": "541-897-9771",
     "address": "100 River Ave",
-    "updated": "3/10/2026\n                            \n                            \n                                1:09 PM"
+    "updated": "3/13/2026\n                            \n                            \n                                8:40 AM"
   },
   {
     "shelter": "Brooklyn Street",
@@ -102,7 +102,7 @@
     "units": 0,
     "phone": "541-359-9860",
     "address": "410 Garfield St",
-    "updated": "3/12/2026\n                            \n                            \n                                8:30 AM"
+    "updated": "3/13/2026\n                            \n                            \n                                8:45 AM"
   },
   {
     "shelter": "Everyone Village",
