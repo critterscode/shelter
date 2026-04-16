@@ -7,13 +7,6 @@
     "updated": ""
   },
   {
-    "shelter": "*Dusk to Dawn",
-    "units": 12,
-    "phone": "541-461-8688",
-    "address": "717 Highway 99 N",
-    "updated": "4/15/2026\n                            \n                            \n                                9:39 AM"
-  },
-  {
     "shelter": "*Station 7",
     "units": 8,
     "phone": "541-689-3111",
@@ -22,66 +15,66 @@
   },
   {
     "shelter": "*Eugene Mission Rescue Shelter",
-    "units": 6,
+    "units": 2,
     "phone": "541-344-3251",
     "address": "1542 W 1st Ave",
-    "updated": "4/15/2026\n                            \n                            \n                                10:14 AM"
+    "updated": "4/16/2026\n                            \n                            \n                                8:03 AM"
   },
   {
-    "shelter": "*OASIS Emergency Family Shelter",
-    "units": 0,
-    "phone": "541-345-3628",
-    "address": "1175 G St",
-    "updated": "4/14/2026\n                            \n                            \n                                8:37 AM"
+    "shelter": "*Dusk to Dawn",
+    "units": 1,
+    "phone": "541-461-8688",
+    "address": "717 Highway 99 N",
+    "updated": "4/16/2026\n                            \n                            \n                                11:50 AM"
   },
   {
-    "shelter": "Ann`s Heart Women`s Shelter",
+    "shelter": "*1st Place Family Annex",
     "units": 0,
-    "phone": "541-897-9764",
-    "address": "PO Box 499",
-    "updated": "4/15/2026\n                            \n                            \n                                2:35 AM"
+    "phone": "541-342-7728",
+    "address": "4060 W Amazon Dr",
+    "updated": "4/8/2026\n                            \n                            \n                                8:13 AM"
   },
   {
     "shelter": "Overnight Parking Program EUGENE",
     "units": 0,
     "phone": "541-461-8688",
     "address": "450 Highway 99 N",
-    "updated": "4/15/2026\n                            \n                            \n                                9:38 AM"
+    "updated": "4/16/2026\n                            \n                            \n                                11:49 AM"
   },
   {
     "shelter": "ShelterCare Medical Respite",
     "units": 0,
     "phone": "541-461-2845",
     "address": "780 Highway 99 N",
-    "updated": "4/15/2026\n                            \n                            \n                                9:11 AM"
+    "updated": "4/16/2026\n                            \n                            \n                                7:47 AM"
   },
   {
     "shelter": "Roosevelt Safe Spot Community",
     "units": 0,
     "phone": "541-683-0836",
     "address": "2031 Roosevelt Blvd",
-    "updated": "4/15/2026\n                            \n                            \n                                7:55 AM"
+    "updated": "4/16/2026\n                            \n                            \n                                10:36 AM"
   },
   {
     "shelter": "Community Supported Shelters - Veterans Safe Spot Community",
     "units": 0,
     "phone": "541-683-0836",
     "address": "1160 Grant St",
-    "updated": "4/15/2026\n                            \n                            \n                                7:56 AM"
+    "updated": "4/16/2026\n                            \n                            \n                                10:36 AM"
   },
   {
     "shelter": "Community Supported Shelters",
     "units": 0,
     "phone": "541-683-0836",
     "address": "1160 Grant St",
-    "updated": "4/15/2026\n                            \n                            \n                                7:56 AM"
+    "updated": "4/16/2026\n                            \n                            \n                                10:36 AM"
   },
   {
     "shelter": "310 Garfield Safe Sleep Site",
     "units": 0,
     "phone": "541-357-1220",
     "address": "310 Garfield St",
-    "updated": "4/15/2026\n                            \n                            \n                                9:38 AM"
+    "updated": "4/16/2026\n                            \n                            \n                                11:48 AM"
   },
   {
     "shelter": "River Ave Navigation Center",
@@ -102,21 +95,21 @@
     "units": 0,
     "phone": "541-525-0501",
     "address": "111 N Garfield St",
-    "updated": "4/15/2026\n                            \n                            \n                                10:38 AM"
+    "updated": "4/16/2026\n                            \n                            \n                                11:57 AM"
   },
   {
     "shelter": "410 Garfield Safe Sleep Site",
     "units": 0,
     "phone": "541-359-9860",
     "address": "410 Garfield St",
-    "updated": "4/15/2026\n                            \n                            \n                                9:38 AM"
+    "updated": "4/16/2026\n                            \n                            \n                                11:48 AM"
   },
   {
     "shelter": "Everyone Village",
     "units": 0,
     "phone": "541-505-7597",
     "address": "3825 Janisse St",
-    "updated": "4/15/2026\n                            \n                            \n                                6:21 AM"
+    "updated": "4/16/2026\n                            \n                            \n                                9:12 AM"
   },
   {
     "shelter": "ALL IN ShelterCare",
@@ -133,10 +126,17 @@
     "updated": "4/10/2026\n                            \n                            \n                                7:04 AM"
   },
   {
-    "shelter": "*1st Place Family Annex",
+    "shelter": "*OASIS Emergency Family Shelter",
     "units": 0,
-    "phone": "541-342-7728",
-    "address": "4060 W Amazon Dr",
-    "updated": "4/8/2026\n                            \n                            \n                                8:13 AM"
+    "phone": "541-345-3628",
+    "address": "1175 G St",
+    "updated": "4/14/2026\n                            \n                            \n                                8:37 AM"
+  },
+  {
+    "shelter": "Ann`s Heart Women`s Shelter",
+    "units": 0,
+    "phone": "541-897-9764",
+    "address": "PO Box 499",
+    "updated": "4/15/2026\n                            \n                            \n                                2:35 AM"
   }
 ]
