@@ -8,38 +8,87 @@
   },
   {
     "shelter": "*Station 7",
-    "units": 6,
+    "units": 7,
     "phone": "541-689-3111",
     "address": "931 W 7th Ave",
-    "updated": "4/20/2026\n                            \n                            \n                                12:56 PM"
+    "updated": "4/21/2026\n                            \n                            \n                                6:03 AM"
   },
   {
     "shelter": "*Eugene Mission Rescue Shelter",
-    "units": 4,
+    "units": 5,
     "phone": "541-344-3251",
     "address": "1542 W 1st Ave",
-    "updated": "4/20/2026\n                            \n                            \n                                8:26 AM"
+    "updated": "4/21/2026\n                            \n                            \n                                8:28 AM"
   },
   {
-    "shelter": "*OASIS Emergency Family Shelter",
-    "units": 0,
-    "phone": "541-345-3628",
-    "address": "1175 G St",
-    "updated": "4/20/2026\n                            \n                            \n                                9:42 AM"
+    "shelter": "*Dusk to Dawn",
+    "units": 2,
+    "phone": "541-461-8688",
+    "address": "717 Highway 99 N",
+    "updated": "4/21/2026\n                            \n                            \n                                8:36 AM"
   },
   {
-    "shelter": "Ann`s Heart Women`s Shelter",
+    "shelter": "River Ave Navigation Center",
+    "units": 2,
+    "phone": "541-897-9771",
+    "address": "100 River Ave",
+    "updated": "4/21/2026\n                            \n                            \n                                11:29 AM"
+  },
+  {
+    "shelter": "Brooklyn Street",
     "units": 0,
-    "phone": "541-897-9764",
-    "address": "PO Box 499",
-    "updated": "4/20/2026\n                            \n                            \n                                10:03 AM"
+    "phone": "541-606-4093",
+    "address": "1545 Brooklyn St",
+    "updated": "4/13/2026\n                            \n                            \n                                12:04 PM"
+  },
+  {
+    "shelter": "Opportunity Village Eugene (SquareOne Villages)",
+    "units": 0,
+    "phone": "541-525-0501",
+    "address": "111 N Garfield St",
+    "updated": "4/21/2026\n                            \n                            \n                                11:43 AM"
+  },
+  {
+    "shelter": "410 Garfield Safe Sleep Site",
+    "units": 0,
+    "phone": "541-359-9860",
+    "address": "410 Garfield St",
+    "updated": "4/21/2026\n                            \n                            \n                                8:36 AM"
+  },
+  {
+    "shelter": "Everyone Village",
+    "units": 0,
+    "phone": "541-505-7597",
+    "address": "3825 Janisse St",
+    "updated": "4/21/2026\n                            \n                            \n                                9:03 AM"
+  },
+  {
+    "shelter": "ALL IN ShelterCare",
+    "units": 0,
+    "phone": "541-686-1262",
+    "address": "499 W 4th Ave",
+    "updated": "12/27/2025\n                            \n                            \n                                11:09 AM"
+  },
+  {
+    "shelter": "*PEER Shelter",
+    "units": 0,
+    "phone": "541-342-4293",
+    "address": "2517 MLK Blvd",
+    "updated": "4/17/2026\n                            \n                            \n                                7:10 AM"
+  },
+  {
+    "shelter": "*1st Place Family Annex",
+    "units": 0,
+    "phone": "541-342-7728",
+    "address": "4060 W Amazon Dr",
+    "updated": "4/21/2026\n                            \n                            \n                                8:08 AM"
   },
   {
     "shelter": "Overnight Parking Program EUGENE",
     "units": 0,
     "phone": "541-461-8688",
     "address": "450 Highway 99 N",
-    "updated": "4/20/2026\n                            \n                            \n                                9:35 AM"
+    "updated": "4/21/2026\n                            \n                            \n                                8:38 AM"
   },
   {
     "shelter": "ShelterCare Medical Respite",
@@ -63,13 +112,6 @@
     "updated": "4/20/2026\n                            \n                            \n                                9:18 AM"
   },
   {
-    "shelter": "*Dusk to Dawn",
-    "units": 0,
-    "phone": "541-461-8688",
-    "address": "717 Highway 99 N",
-    "updated": "4/20/2026\n                            \n                            \n                                9:36 AM"
-  },
-  {
     "shelter": "Community Supported Shelters",
     "units": 0,
     "phone": "541-683-0836",
@@ -81,62 +123,20 @@
     "units": 0,
     "phone": "541-357-1220",
     "address": "310 Garfield St",
-    "updated": "4/20/2026\n                            \n                            \n                                9:34 AM"
+    "updated": "4/21/2026\n                            \n                            \n                                8:38 AM"
   },
   {
-    "shelter": "River Ave Navigation Center",
+    "shelter": "*OASIS Emergency Family Shelter",
     "units": 0,
-    "phone": "541-897-9771",
-    "address": "100 River Ave",
-    "updated": "4/10/2026\n                            \n                            \n                                9:41 AM"
+    "phone": "541-345-3628",
+    "address": "1175 G St",
+    "updated": "4/21/2026\n                            \n                            \n                                8:33 AM"
   },
   {
-    "shelter": "Brooklyn Street",
+    "shelter": "Ann`s Heart Women`s Shelter",
     "units": 0,
-    "phone": "541-606-4093",
-    "address": "1545 Brooklyn St",
-    "updated": "4/13/2026\n                            \n                            \n                                12:04 PM"
-  },
-  {
-    "shelter": "Opportunity Village Eugene (SquareOne Villages)",
-    "units": 0,
-    "phone": "541-525-0501",
-    "address": "111 N Garfield St",
-    "updated": "4/20/2026\n                            \n                            \n                                10:45 AM"
-  },
-  {
-    "shelter": "410 Garfield Safe Sleep Site",
-    "units": 0,
-    "phone": "541-359-9860",
-    "address": "410 Garfield St",
-    "updated": "4/20/2026\n                            \n                            \n                                9:34 AM"
-  },
-  {
-    "shelter": "Everyone Village",
-    "units": 0,
-    "phone": "541-505-7597",
-    "address": "3825 Janisse St",
-    "updated": "4/20/2026\n                            \n                            \n                                10:13 AM"
-  },
-  {
-    "shelter": "ALL IN ShelterCare",
-    "units": 0,
-    "phone": "541-686-1262",
-    "address": "499 W 4th Ave",
-    "updated": "12/27/2025\n                            \n                            \n                                11:09 AM"
-  },
-  {
-    "shelter": "*PEER Shelter",
-    "units": 0,
-    "phone": "541-342-4293",
-    "address": "2517 MLK Blvd",
-    "updated": "4/17/2026\n                            \n                            \n                                7:10 AM"
-  },
-  {
-    "shelter": "*1st Place Family Annex",
-    "units": 0,
-    "phone": "541-342-7728",
-    "address": "4060 W Amazon Dr",
-    "updated": "4/8/2026\n                            \n                            \n                                8:13 AM"
+    "phone": "541-897-9764",
+    "address": "PO Box 499",
+    "updated": "4/20/2026\n                            \n                            \n                                10:03 AM"
   }
 ]
