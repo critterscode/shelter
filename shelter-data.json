@@ -7,18 +7,18 @@
     "updated": ""
   },
   {
-    "shelter": "*Eugene Mission Rescue Shelter",
-    "units": 17,
-    "phone": "541-344-3251",
-    "address": "1542 W 1st Ave",
-    "updated": "5/22/2026\n                            \n                            \n                                10:03 AM"
-  },
-  {
     "shelter": "*Station 7",
-    "units": 5,
+    "units": 4,
     "phone": "541-689-3111",
     "address": "931 W 7th Ave",
-    "updated": "5/26/2026\n                            \n                            \n                                7:14 AM"
+    "updated": "5/27/2026\n                            \n                            \n                                6:44 AM"
+  },
+  {
+    "shelter": "*Eugene Mission Rescue Shelter",
+    "units": 3,
+    "phone": "541-344-3251",
+    "address": "1542 W 1st Ave",
+    "updated": "5/27/2026\n                            \n                            \n                                7:25 AM"
   },
   {
     "shelter": "*Dusk to Dawn",
@@ -46,28 +46,28 @@
     "units": 0,
     "phone": "541-461-2845",
     "address": "780 Highway 99 N",
-    "updated": "5/26/2026\n                            \n                            \n                                8:22 AM"
+    "updated": "5/27/2026\n                            \n                            \n                                8:15 AM"
   },
   {
     "shelter": "Roosevelt Safe Spot Community",
     "units": 0,
     "phone": "541-683-0836",
     "address": "2031 Roosevelt Blvd",
-    "updated": "5/26/2026\n                            \n                            \n                                9:33 AM"
+    "updated": "5/27/2026\n                            \n                            \n                                8:23 AM"
   },
   {
     "shelter": "Community Supported Shelters - Veterans Safe Spot Community",
     "units": 0,
     "phone": "541-683-0836",
     "address": "1160 Grant St",
-    "updated": "5/26/2026\n                            \n                            \n                                9:33 AM"
+    "updated": "5/27/2026\n                            \n                            \n                                8:23 AM"
   },
   {
     "shelter": "Community Supported Shelters",
     "units": 0,
     "phone": "541-683-0836",
     "address": "1160 Grant St",
-    "updated": "5/26/2026\n                            \n                            \n                                9:33 AM"
+    "updated": "5/27/2026\n                            \n                            \n                                8:23 AM"
   },
   {
     "shelter": "310 Garfield Safe Sleep Site",
@@ -109,7 +109,7 @@
     "units": 0,
     "phone": "541-505-7597",
     "address": "3825 Janisse St",
-    "updated": "5/26/2026\n                            \n                            \n                                6:05 AM"
+    "updated": "5/27/2026\n                            \n                            \n                                6:25 AM"
   },
   {
     "shelter": "969 Emergency Shelter- ShelterCare",
@@ -137,6 +137,6 @@
     "units": 0,
     "phone": "541-897-9764",
     "address": "PO Box 499",
-    "updated": "5/25/2026\n                            \n                            \n                                1:36 AM"
+    "updated": "5/27/2026\n                            \n                            \n                                12:37 AM"
   }
 ]
