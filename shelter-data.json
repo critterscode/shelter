@@ -11,14 +11,21 @@
     "units": 15,
     "phone": "541-344-3251",
     "address": "1542 W 1st Ave",
-    "updated": "6/4/2026\n                            \n                            \n                                11:52 AM"
+    "updated": "6/5/2026\n                            \n                            \n                                11:26 AM"
+  },
+  {
+    "shelter": "969 Emergency Shelter- ShelterCare",
+    "units": 3,
+    "phone": "",
+    "address": "",
+    "updated": "6/4/2026\n                            \n                            \n                                4:48 PM"
   },
   {
     "shelter": "*Station 7",
-    "units": 7,
+    "units": 2,
     "phone": "541-689-3111",
     "address": "931 W 7th Ave",
-    "updated": "6/4/2026\n                            \n                            \n                                8:05 AM"
+    "updated": "6/5/2026\n                            \n                            \n                                8:02 AM"
   },
   {
     "shelter": "*Dusk to Dawn",
@@ -46,77 +53,21 @@
     "units": 0,
     "phone": "541-461-2845",
     "address": "780 Highway 99 N",
-    "updated": "6/4/2026\n                            \n                            \n                                7:35 AM"
+    "updated": "6/5/2026\n                            \n                            \n                                7:43 AM"
   },
   {
     "shelter": "Roosevelt Safe Spot Community",
     "units": 0,
     "phone": "541-683-0836",
     "address": "2031 Roosevelt Blvd",
-    "updated": "6/4/2026\n                            \n                            \n                                8:10 AM"
+    "updated": "6/5/2026\n                            \n                            \n                                10:51 AM"
   },
   {
     "shelter": "Community Supported Shelters - Veterans Safe Spot Community",
     "units": 0,
     "phone": "541-683-0836",
     "address": "1160 Grant St",
-    "updated": "6/4/2026\n                            \n                            \n                                8:11 AM"
-  },
-  {
-    "shelter": "Community Supported Shelters",
-    "units": 0,
-    "phone": "541-683-0836",
-    "address": "1160 Grant St",
-    "updated": "6/4/2026\n                            \n                            \n                                8:11 AM"
-  },
-  {
-    "shelter": "310 Garfield Safe Sleep Site",
-    "units": 0,
-    "phone": "541-357-1220",
-    "address": "310 Garfield St",
-    "updated": "6/4/2026\n                            \n                            \n                                8:19 AM"
-  },
-  {
-    "shelter": "River Ave Navigation Center",
-    "units": 0,
-    "phone": "541-897-9771",
-    "address": "100 River Ave",
-    "updated": "6/1/2026\n                            \n                            \n                                11:20 AM"
-  },
-  {
-    "shelter": "Brooklyn Street",
-    "units": 0,
-    "phone": "541-606-4093",
-    "address": "1545 Brooklyn St",
-    "updated": "5/28/2026\n                            \n                            \n                                2:17 PM"
-  },
-  {
-    "shelter": "Opportunity Village Eugene (SquareOne Villages)",
-    "units": 0,
-    "phone": "541-525-0501",
-    "address": "111 N Garfield St",
-    "updated": "6/4/2026\n                            \n                            \n                                11:20 AM"
-  },
-  {
-    "shelter": "410 Garfield Safe Sleep Site",
-    "units": 0,
-    "phone": "541-359-9860",
-    "address": "410 Garfield St",
-    "updated": "6/4/2026\n                            \n                            \n                                8:20 AM"
-  },
-  {
-    "shelter": "Everyone Village",
-    "units": 0,
-    "phone": "541-505-7597",
-    "address": "3825 Janisse St",
-    "updated": "6/4/2026\n                            \n                            \n                                9:12 AM"
-  },
-  {
-    "shelter": "969 Emergency Shelter- ShelterCare",
-    "units": 0,
-    "phone": "",
-    "address": "",
-    "updated": "6/3/2026\n                            \n                            \n                                6:29 AM"
+    "updated": "6/5/2026\n                            \n                            \n                                10:51 AM"
   },
   {
     "shelter": "*PEER Shelter",
@@ -137,6 +88,55 @@
     "units": 0,
     "phone": "541-897-9764",
     "address": "PO Box 499",
-    "updated": "6/2/2026\n                            \n                            \n                                7:31 PM"
+    "updated": "6/5/2026\n                            \n                            \n                                8:31 AM"
+  },
+  {
+    "shelter": "Community Supported Shelters",
+    "units": 0,
+    "phone": "541-683-0836",
+    "address": "1160 Grant St",
+    "updated": "6/5/2026\n                            \n                            \n                                10:52 AM"
+  },
+  {
+    "shelter": "310 Garfield Safe Sleep Site",
+    "units": 0,
+    "phone": "541-357-1220",
+    "address": "310 Garfield St",
+    "updated": "6/4/2026\n                            \n                            \n                                8:19 AM"
+  },
+  {
+    "shelter": "River Ave Navigation Center",
+    "units": 0,
+    "phone": "541-897-9771",
+    "address": "100 River Ave",
+    "updated": "6/4/2026\n                            \n                            \n                                2:25 PM"
+  },
+  {
+    "shelter": "Brooklyn Street",
+    "units": 0,
+    "phone": "541-606-4093",
+    "address": "1545 Brooklyn St",
+    "updated": "6/4/2026\n                            \n                            \n                                2:46 PM"
+  },
+  {
+    "shelter": "Opportunity Village Eugene (SquareOne Villages)",
+    "units": 0,
+    "phone": "541-525-0501",
+    "address": "111 N Garfield St",
+    "updated": "6/5/2026\n                            \n                            \n                                9:35 AM"
+  },
+  {
+    "shelter": "410 Garfield Safe Sleep Site",
+    "units": 0,
+    "phone": "541-359-9860",
+    "address": "410 Garfield St",
+    "updated": "6/4/2026\n                            \n                            \n                                8:20 AM"
+  },
+  {
+    "shelter": "Everyone Village",
+    "units": 0,
+    "phone": "541-505-7597",
+    "address": "3825 Janisse St",
+    "updated": "6/5/2026\n                            \n                            \n                                6:06 AM"
   }
 ]
