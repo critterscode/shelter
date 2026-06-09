@@ -28,55 +28,6 @@
     "updated": "6/9/2026\n                            \n                            \n                                8:35 AM"
   },
   {
-    "shelter": "River Ave Navigation Center",
-    "units": 1,
-    "phone": "541-897-9771",
-    "address": "100 River Ave",
-    "updated": "6/9/2026\n                            \n                            \n                                11:26 AM"
-  },
-  {
-    "shelter": "Brooklyn Street",
-    "units": 0,
-    "phone": "541-606-4093",
-    "address": "1545 Brooklyn St",
-    "updated": "6/8/2026\n                            \n                            \n                                12:13 PM"
-  },
-  {
-    "shelter": "Opportunity Village Eugene (SquareOne Villages)",
-    "units": 0,
-    "phone": "541-525-0501",
-    "address": "111 N Garfield St",
-    "updated": "6/9/2026\n                            \n                            \n                                12:03 PM"
-  },
-  {
-    "shelter": "410 Garfield Safe Sleep Site",
-    "units": 0,
-    "phone": "541-359-9860",
-    "address": "410 Garfield St",
-    "updated": "6/9/2026\n                            \n                            \n                                8:35 AM"
-  },
-  {
-    "shelter": "Everyone Village",
-    "units": 0,
-    "phone": "541-505-7597",
-    "address": "3825 Janisse St",
-    "updated": "6/9/2026\n                            \n                            \n                                6:17 AM"
-  },
-  {
-    "shelter": "969 Emergency Shelter- ShelterCare",
-    "units": 0,
-    "phone": "",
-    "address": "",
-    "updated": "6/9/2026\n                            \n                            \n                                6:04 AM"
-  },
-  {
-    "shelter": "*PEER Shelter",
-    "units": 0,
-    "phone": "541-342-4293",
-    "address": "2517 MLK Blvd",
-    "updated": "6/9/2026\n                            \n                            \n                                11:16 AM"
-  },
-  {
     "shelter": "*1st Place Family Annex",
     "units": 0,
     "phone": "541-342-7728",
@@ -124,6 +75,55 @@
     "phone": "541-357-1220",
     "address": "310 Garfield St",
     "updated": "6/9/2026\n                            \n                            \n                                8:36 AM"
+  },
+  {
+    "shelter": "River Ave Navigation Center",
+    "units": 0,
+    "phone": "541-897-9771",
+    "address": "100 River Ave",
+    "updated": "6/9/2026\n                            \n                            \n                                2:13 PM"
+  },
+  {
+    "shelter": "Brooklyn Street",
+    "units": 0,
+    "phone": "541-606-4093",
+    "address": "1545 Brooklyn St",
+    "updated": "6/8/2026\n                            \n                            \n                                12:13 PM"
+  },
+  {
+    "shelter": "Opportunity Village Eugene (SquareOne Villages)",
+    "units": 0,
+    "phone": "541-525-0501",
+    "address": "111 N Garfield St",
+    "updated": "6/9/2026\n                            \n                            \n                                12:03 PM"
+  },
+  {
+    "shelter": "410 Garfield Safe Sleep Site",
+    "units": 0,
+    "phone": "541-359-9860",
+    "address": "410 Garfield St",
+    "updated": "6/9/2026\n                            \n                            \n                                8:35 AM"
+  },
+  {
+    "shelter": "Everyone Village",
+    "units": 0,
+    "phone": "541-505-7597",
+    "address": "3825 Janisse St",
+    "updated": "6/9/2026\n                            \n                            \n                                6:17 AM"
+  },
+  {
+    "shelter": "969 Emergency Shelter- ShelterCare",
+    "units": 0,
+    "phone": "",
+    "address": "",
+    "updated": "6/9/2026\n                            \n                            \n                                6:04 AM"
+  },
+  {
+    "shelter": "*PEER Shelter",
+    "units": 0,
+    "phone": "541-342-4293",
+    "address": "2517 MLK Blvd",
+    "updated": "6/9/2026\n                            \n                            \n                                11:16 AM"
   },
   {
     "shelter": "*OASIS Emergency Family Shelter",
