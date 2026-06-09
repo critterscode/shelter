@@ -8,80 +8,31 @@
   },
   {
     "shelter": "*Eugene Mission Rescue Shelter",
-    "units": 11,
+    "units": 10,
     "phone": "541-344-3251",
     "address": "1542 W 1st Ave",
-    "updated": "6/8/2026\n                            \n                            \n                                11:22 AM"
+    "updated": "6/9/2026\n                            \n                            \n                                8:44 AM"
   },
   {
     "shelter": "*Station 7",
-    "units": 7,
+    "units": 6,
     "phone": "541-689-3111",
     "address": "931 W 7th Ave",
-    "updated": "6/8/2026\n                            \n                            \n                                7:59 AM"
+    "updated": "6/9/2026\n                            \n                            \n                                8:47 AM"
   },
   {
     "shelter": "*Dusk to Dawn",
     "units": 3,
     "phone": "541-461-8688",
     "address": "717 Highway 99 N",
-    "updated": "6/8/2026\n                            \n                            \n                                9:20 AM"
-  },
-  {
-    "shelter": "*1st Place Family Annex",
-    "units": 0,
-    "phone": "541-342-7728",
-    "address": "4060 W Amazon Dr",
-    "updated": "6/8/2026\n                            \n                            \n                                10:00 AM"
-  },
-  {
-    "shelter": "Overnight Parking Program EUGENE",
-    "units": 0,
-    "phone": "541-461-8688",
-    "address": "450 Highway 99 N",
-    "updated": "6/8/2026\n                            \n                            \n                                9:19 AM"
-  },
-  {
-    "shelter": "ShelterCare Medical Respite",
-    "units": 0,
-    "phone": "541-461-2845",
-    "address": "780 Highway 99 N",
-    "updated": "6/8/2026\n                            \n                            \n                                8:09 AM"
-  },
-  {
-    "shelter": "Roosevelt Safe Spot Community",
-    "units": 0,
-    "phone": "541-683-0836",
-    "address": "2031 Roosevelt Blvd",
-    "updated": "6/5/2026\n                            \n                            \n                                10:51 AM"
-  },
-  {
-    "shelter": "Community Supported Shelters - Veterans Safe Spot Community",
-    "units": 0,
-    "phone": "541-683-0836",
-    "address": "1160 Grant St",
-    "updated": "6/5/2026\n                            \n                            \n                                10:51 AM"
-  },
-  {
-    "shelter": "Community Supported Shelters",
-    "units": 0,
-    "phone": "541-683-0836",
-    "address": "1160 Grant St",
-    "updated": "6/5/2026\n                            \n                            \n                                10:52 AM"
-  },
-  {
-    "shelter": "310 Garfield Safe Sleep Site",
-    "units": 0,
-    "phone": "541-357-1220",
-    "address": "310 Garfield St",
-    "updated": "6/8/2026\n                            \n                            \n                                9:20 AM"
+    "updated": "6/9/2026\n                            \n                            \n                                8:35 AM"
   },
   {
     "shelter": "River Ave Navigation Center",
-    "units": 0,
+    "units": 1,
     "phone": "541-897-9771",
     "address": "100 River Ave",
-    "updated": "6/4/2026\n                            \n                            \n                                2:25 PM"
+    "updated": "6/9/2026\n                            \n                            \n                                11:26 AM"
   },
   {
     "shelter": "Brooklyn Street",
@@ -95,48 +46,97 @@
     "units": 0,
     "phone": "541-525-0501",
     "address": "111 N Garfield St",
-    "updated": "6/8/2026\n                            \n                            \n                                10:25 AM"
+    "updated": "6/9/2026\n                            \n                            \n                                12:03 PM"
   },
   {
     "shelter": "410 Garfield Safe Sleep Site",
     "units": 0,
     "phone": "541-359-9860",
     "address": "410 Garfield St",
-    "updated": "6/8/2026\n                            \n                            \n                                9:19 AM"
+    "updated": "6/9/2026\n                            \n                            \n                                8:35 AM"
   },
   {
     "shelter": "Everyone Village",
     "units": 0,
     "phone": "541-505-7597",
     "address": "3825 Janisse St",
-    "updated": "6/8/2026\n                            \n                            \n                                6:04 AM"
+    "updated": "6/9/2026\n                            \n                            \n                                6:17 AM"
   },
   {
     "shelter": "969 Emergency Shelter- ShelterCare",
     "units": 0,
     "phone": "",
     "address": "",
-    "updated": "6/8/2026\n                            \n                            \n                                6:41 AM"
+    "updated": "6/9/2026\n                            \n                            \n                                6:04 AM"
   },
   {
     "shelter": "*PEER Shelter",
     "units": 0,
     "phone": "541-342-4293",
     "address": "2517 MLK Blvd",
-    "updated": "5/28/2026\n                            \n                            \n                                7:28 AM"
+    "updated": "6/9/2026\n                            \n                            \n                                11:16 AM"
+  },
+  {
+    "shelter": "*1st Place Family Annex",
+    "units": 0,
+    "phone": "541-342-7728",
+    "address": "4060 W Amazon Dr",
+    "updated": "6/9/2026\n                            \n                            \n                                9:32 AM"
+  },
+  {
+    "shelter": "Overnight Parking Program EUGENE",
+    "units": 0,
+    "phone": "541-461-8688",
+    "address": "450 Highway 99 N",
+    "updated": "6/9/2026\n                            \n                            \n                                8:36 AM"
+  },
+  {
+    "shelter": "ShelterCare Medical Respite",
+    "units": 0,
+    "phone": "541-461-2845",
+    "address": "780 Highway 99 N",
+    "updated": "6/9/2026\n                            \n                            \n                                8:02 AM"
+  },
+  {
+    "shelter": "Roosevelt Safe Spot Community",
+    "units": 0,
+    "phone": "541-683-0836",
+    "address": "2031 Roosevelt Blvd",
+    "updated": "6/9/2026\n                            \n                            \n                                9:42 AM"
+  },
+  {
+    "shelter": "Community Supported Shelters - Veterans Safe Spot Community",
+    "units": 0,
+    "phone": "541-683-0836",
+    "address": "1160 Grant St",
+    "updated": "6/9/2026\n                            \n                            \n                                9:42 AM"
+  },
+  {
+    "shelter": "Community Supported Shelters",
+    "units": 0,
+    "phone": "541-683-0836",
+    "address": "1160 Grant St",
+    "updated": "6/9/2026\n                            \n                            \n                                9:42 AM"
+  },
+  {
+    "shelter": "310 Garfield Safe Sleep Site",
+    "units": 0,
+    "phone": "541-357-1220",
+    "address": "310 Garfield St",
+    "updated": "6/9/2026\n                            \n                            \n                                8:36 AM"
   },
   {
     "shelter": "*OASIS Emergency Family Shelter",
     "units": 0,
     "phone": "541-345-3628",
     "address": "1175 G St",
-    "updated": "6/5/2026\n                            \n                            \n                                1:36 PM"
+    "updated": "6/9/2026\n                            \n                            \n                                9:45 AM"
   },
   {
     "shelter": "Ann`s Heart Women`s Shelter",
     "units": 0,
     "phone": "541-897-9764",
     "address": "PO Box 499",
-    "updated": "6/6/2026\n                            \n                            \n                                7:20 PM"
+    "updated": "6/9/2026\n                            \n                            \n                                1:12 AM"
   }
 ]
