@@ -8,115 +8,38 @@
   },
   {
     "shelter": "*Eugene Mission Rescue Shelter",
-    "units": 16,
+    "units": 10,
     "phone": "541-344-3251",
     "address": "1542 W 1st Ave",
-    "updated": "6/12/2026\n                            \n                            \n                                6:59 AM"
+    "updated": "6/15/2026\n                            \n                            \n                                9:33 AM"
   },
   {
     "shelter": "*Station 7",
     "units": 7,
     "phone": "541-689-3111",
     "address": "931 W 7th Ave",
-    "updated": "6/14/2026\n                            \n                            \n                                7:44 AM"
-  },
-  {
-    "shelter": "*Dusk to Dawn",
-    "units": 1,
-    "phone": "541-461-8688",
-    "address": "717 Highway 99 N",
-    "updated": "6/11/2026\n                            \n                            \n                                8:49 AM"
-  },
-  {
-    "shelter": "*1st Place Family Annex",
-    "units": 0,
-    "phone": "541-342-7728",
-    "address": "4060 W Amazon Dr",
-    "updated": "6/10/2026\n                            \n                            \n                                8:46 AM"
-  },
-  {
-    "shelter": "Overnight Parking Program EUGENE",
-    "units": 0,
-    "phone": "541-461-8688",
-    "address": "450 Highway 99 N",
-    "updated": "6/11/2026\n                            \n                            \n                                8:49 AM"
-  },
-  {
-    "shelter": "ShelterCare Medical Respite",
-    "units": 0,
-    "phone": "541-461-2845",
-    "address": "780 Highway 99 N",
-    "updated": "6/12/2026\n                            \n                            \n                                7:25 AM"
-  },
-  {
-    "shelter": "Roosevelt Safe Spot Community",
-    "units": 0,
-    "phone": "541-683-0836",
-    "address": "2031 Roosevelt Blvd",
-    "updated": "6/12/2026\n                            \n                            \n                                8:17 AM"
-  },
-  {
-    "shelter": "Community Supported Shelters - Veterans Safe Spot Community",
-    "units": 0,
-    "phone": "541-683-0836",
-    "address": "1160 Grant St",
-    "updated": "6/12/2026\n                            \n                            \n                                8:17 AM"
-  },
-  {
-    "shelter": "Community Supported Shelters",
-    "units": 0,
-    "phone": "541-683-0836",
-    "address": "1160 Grant St",
-    "updated": "6/12/2026\n                            \n                            \n                                8:17 AM"
-  },
-  {
-    "shelter": "310 Garfield Safe Sleep Site",
-    "units": 0,
-    "phone": "541-357-1220",
-    "address": "310 Garfield St",
-    "updated": "6/11/2026\n                            \n                            \n                                8:49 AM"
-  },
-  {
-    "shelter": "River Ave Navigation Center",
-    "units": 0,
-    "phone": "541-897-9771",
-    "address": "100 River Ave",
-    "updated": "6/12/2026\n                            \n                            \n                                12:42 PM"
-  },
-  {
-    "shelter": "Brooklyn Street",
-    "units": 0,
-    "phone": "541-606-4093",
-    "address": "1545 Brooklyn St",
-    "updated": "6/8/2026\n                            \n                            \n                                12:13 PM"
-  },
-  {
-    "shelter": "Opportunity Village Eugene (SquareOne Villages)",
-    "units": 0,
-    "phone": "541-525-0501",
-    "address": "111 N Garfield St",
-    "updated": "6/13/2026\n                            \n                            \n                                8:45 AM"
+    "updated": "6/15/2026\n                            \n                            \n                                8:01 AM"
   },
   {
     "shelter": "410 Garfield Safe Sleep Site",
-    "units": 0,
+    "units": 1,
     "phone": "541-359-9860",
     "address": "410 Garfield St",
-    "updated": "6/11/2026\n                            \n                            \n                                8:48 AM"
+    "updated": "6/15/2026\n                            \n                            \n                                8:59 AM"
   },
   {
     "shelter": "Everyone Village",
     "units": 0,
     "phone": "541-505-7597",
     "address": "3825 Janisse St",
-    "updated": "6/13/2026\n                            \n                            \n                                7:31 AM"
+    "updated": "6/15/2026\n                            \n                            \n                                7:33 AM"
   },
   {
     "shelter": "969 Emergency Shelter- ShelterCare",
     "units": 0,
     "phone": "",
     "address": "",
-    "updated": "6/12/2026\n                            \n                            \n                                6:05 AM"
+    "updated": "6/15/2026\n                            \n                            \n                                6:04 AM"
   },
   {
     "shelter": "*PEER Shelter",
@@ -138,5 +61,82 @@
     "phone": "541-897-9764",
     "address": "PO Box 499",
     "updated": "6/9/2026\n                            \n                            \n                                1:12 AM"
+  },
+  {
+    "shelter": "Overnight Parking Program EUGENE",
+    "units": 0,
+    "phone": "541-461-8688",
+    "address": "450 Highway 99 N",
+    "updated": "6/15/2026\n                            \n                            \n                                9:00 AM"
+  },
+  {
+    "shelter": "ShelterCare Medical Respite",
+    "units": 0,
+    "phone": "541-461-2845",
+    "address": "780 Highway 99 N",
+    "updated": "6/15/2026\n                            \n                            \n                                8:37 AM"
+  },
+  {
+    "shelter": "Roosevelt Safe Spot Community",
+    "units": 0,
+    "phone": "541-683-0836",
+    "address": "2031 Roosevelt Blvd",
+    "updated": "6/15/2026\n                            \n                            \n                                10:18 AM"
+  },
+  {
+    "shelter": "Community Supported Shelters - Veterans Safe Spot Community",
+    "units": 0,
+    "phone": "541-683-0836",
+    "address": "1160 Grant St",
+    "updated": "6/15/2026\n                            \n                            \n                                10:17 AM"
+  },
+  {
+    "shelter": "*Dusk to Dawn",
+    "units": 0,
+    "phone": "541-461-8688",
+    "address": "717 Highway 99 N",
+    "updated": "6/15/2026\n                            \n                            \n                                9:02 AM"
+  },
+  {
+    "shelter": "Community Supported Shelters",
+    "units": 0,
+    "phone": "541-683-0836",
+    "address": "1160 Grant St",
+    "updated": "6/15/2026\n                            \n                            \n                                10:18 AM"
+  },
+  {
+    "shelter": "310 Garfield Safe Sleep Site",
+    "units": 0,
+    "phone": "541-357-1220",
+    "address": "310 Garfield St",
+    "updated": "6/15/2026\n                            \n                            \n                                9:02 AM"
+  },
+  {
+    "shelter": "River Ave Navigation Center",
+    "units": 0,
+    "phone": "541-897-9771",
+    "address": "100 River Ave",
+    "updated": "6/15/2026\n                            \n                            \n                                11:24 AM"
+  },
+  {
+    "shelter": "Brooklyn Street",
+    "units": 0,
+    "phone": "541-606-4093",
+    "address": "1545 Brooklyn St",
+    "updated": "6/8/2026\n                            \n                            \n                                12:13 PM"
+  },
+  {
+    "shelter": "Opportunity Village Eugene (SquareOne Villages)",
+    "units": 0,
+    "phone": "541-525-0501",
+    "address": "111 N Garfield St",
+    "updated": "6/15/2026\n                            \n                            \n                                10:04 AM"
+  },
+  {
+    "shelter": "*1st Place Family Annex",
+    "units": 0,
+    "phone": "541-342-7728",
+    "address": "4060 W Amazon Dr",
+    "updated": "6/15/2026\n                            \n                            \n                                9:31 AM"
   }
 ]
