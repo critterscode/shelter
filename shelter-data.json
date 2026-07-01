@@ -8,31 +8,45 @@
   },
   {
     "shelter": "*Eugene Mission Rescue Shelter",
-    "units": 19,
+    "units": 20,
     "phone": "541-344-3251",
     "address": "1542 W 1st Ave",
-    "updated": "6/30/2026\n                            \n                            \n                                8:09 AM"
+    "updated": "7/1/2026\n                            \n                            \n                                8:08 AM"
   },
   {
     "shelter": "*Station 7",
-    "units": 5,
+    "units": 6,
     "phone": "541-689-3111",
     "address": "931 W 7th Ave",
-    "updated": "6/30/2026\n                            \n                            \n                                7:50 AM"
+    "updated": "7/1/2026\n                            \n                            \n                                8:09 AM"
+  },
+  {
+    "shelter": "*Dusk to Dawn",
+    "units": 1,
+    "phone": "541-461-8688",
+    "address": "717 Highway 99 N",
+    "updated": "7/1/2026\n                            \n                            \n                                9:03 AM"
+  },
+  {
+    "shelter": "*1st Place Family Annex",
+    "units": 0,
+    "phone": "541-342-7728",
+    "address": "4060 W Amazon Dr",
+    "updated": "7/1/2026\n                            \n                            \n                                8:16 AM"
   },
   {
     "shelter": "Overnight Parking Program EUGENE",
     "units": 0,
     "phone": "541-461-8688",
     "address": "450 Highway 99 N",
-    "updated": "6/30/2026\n                            \n                            \n                                8:51 AM"
+    "updated": "7/1/2026\n                            \n                            \n                                9:02 AM"
   },
   {
     "shelter": "ShelterCare Medical Respite",
     "units": 0,
     "phone": "541-461-2845",
     "address": "780 Highway 99 N",
-    "updated": "6/26/2026\n                            \n                            \n                                7:43 AM"
+    "updated": "7/1/2026\n                            \n                            \n                                7:32 AM"
   },
   {
     "shelter": "Roosevelt Safe Spot Community",
@@ -49,27 +63,6 @@
     "updated": "6/29/2026\n                            \n                            \n                                8:37 AM"
   },
   {
-    "shelter": "*Dusk to Dawn",
-    "units": 0,
-    "phone": "541-461-8688",
-    "address": "717 Highway 99 N",
-    "updated": "6/30/2026\n                            \n                            \n                                8:50 AM"
-  },
-  {
-    "shelter": "*OASIS Emergency Family Shelter",
-    "units": 0,
-    "phone": "541-345-3628",
-    "address": "1175 G St",
-    "updated": "6/24/2026\n                            \n                            \n                                8:18 AM"
-  },
-  {
-    "shelter": "Ann`s Heart Women`s Shelter",
-    "units": 0,
-    "phone": "541-897-9764",
-    "address": "PO Box 499",
-    "updated": "6/19/2026\n                            \n                            \n                                7:45 PM"
-  },
-  {
     "shelter": "Community Supported Shelters",
     "units": 0,
     "phone": "541-683-0836",
@@ -81,7 +74,7 @@
     "units": 0,
     "phone": "541-357-1220",
     "address": "310 Garfield St",
-    "updated": "6/30/2026\n                            \n                            \n                                8:51 AM"
+    "updated": "7/1/2026\n                            \n                            \n                                9:02 AM"
   },
   {
     "shelter": "River Ave Navigation Center",
@@ -102,28 +95,28 @@
     "units": 0,
     "phone": "541-525-0501",
     "address": "111 N Garfield St",
-    "updated": "6/30/2026\n                            \n                            \n                                9:45 AM"
+    "updated": "7/1/2026\n                            \n                            \n                                9:49 AM"
   },
   {
     "shelter": "410 Garfield Safe Sleep Site",
     "units": 0,
     "phone": "541-359-9860",
     "address": "410 Garfield St",
-    "updated": "6/30/2026\n                            \n                            \n                                8:51 AM"
+    "updated": "7/1/2026\n                            \n                            \n                                9:01 AM"
   },
   {
     "shelter": "Everyone Village",
     "units": 0,
     "phone": "541-505-7597",
     "address": "3825 Janisse St",
-    "updated": "6/30/2026\n                            \n                            \n                                6:21 AM"
+    "updated": "7/1/2026\n                            \n                            \n                                6:35 AM"
   },
   {
     "shelter": "969 Emergency Shelter- ShelterCare",
     "units": 0,
     "phone": "",
     "address": "",
-    "updated": "6/30/2026\n                            \n                            \n                                7:21 AM"
+    "updated": "7/1/2026\n                            \n                            \n                                6:58 AM"
   },
   {
     "shelter": "*PEER Shelter",
@@ -133,10 +126,17 @@
     "updated": "6/9/2026\n                            \n                            \n                                11:16 AM"
   },
   {
-    "shelter": "*1st Place Family Annex",
+    "shelter": "*OASIS Emergency Family Shelter",
     "units": 0,
-    "phone": "541-342-7728",
-    "address": "4060 W Amazon Dr",
-    "updated": "6/30/2026\n                            \n                            \n                                8:54 AM"
+    "phone": "541-345-3628",
+    "address": "1175 G St",
+    "updated": "6/24/2026\n                            \n                            \n                                8:18 AM"
+  },
+  {
+    "shelter": "Ann`s Heart Women`s Shelter",
+    "units": 0,
+    "phone": "541-897-9764",
+    "address": "PO Box 499",
+    "updated": "6/19/2026\n                            \n                            \n                                7:45 PM"
   }
 ]
