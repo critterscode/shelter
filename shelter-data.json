@@ -15,10 +15,10 @@
   },
   {
     "shelter": "*Station 7",
-    "units": 5,
+    "units": 8,
     "phone": "541-689-3111",
     "address": "931 W 7th Ave",
-    "updated": "7/3/2026\n                            \n                            \n                                12:24 PM"
+    "updated": "7/5/2026\n                            \n                            \n                                8:06 AM"
   },
   {
     "shelter": "*Dusk to Dawn",
@@ -137,6 +137,6 @@
     "units": 0,
     "phone": "541-897-9764",
     "address": "PO Box 499",
-    "updated": "6/19/2026\n                            \n                            \n                                7:45 PM"
+    "updated": "7/5/2026\n                            \n                            \n                                9:10 AM"
   }
 ]
