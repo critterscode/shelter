@@ -11,70 +11,21 @@
     "units": 11,
     "phone": "541-344-3251",
     "address": "1542 W 1st Ave",
-    "updated": "7/30/2026\n                            \n                            \n                                10:31 AM"
+    "updated": "7/31/2026\n                            \n                            \n                                8:41 AM"
   },
   {
     "shelter": "*Station 7",
-    "units": 7,
+    "units": 8,
     "phone": "541-689-3111",
     "address": "931 W 7th Ave",
-    "updated": "7/30/2026\n                            \n                            \n                                8:50 AM"
-  },
-  {
-    "shelter": "*Dusk to Dawn",
-    "units": 2,
-    "phone": "541-461-8688",
-    "address": "717 Highway 99 N",
-    "updated": "7/30/2026\n                            \n                            \n                                8:09 AM"
-  },
-  {
-    "shelter": "*1st Place Family Annex",
-    "units": 0,
-    "phone": "541-342-7728",
-    "address": "4060 W Amazon Dr",
-    "updated": "7/30/2026\n                            \n                            \n                                8:15 AM"
-  },
-  {
-    "shelter": "Overnight Parking Program EUGENE",
-    "units": 0,
-    "phone": "541-461-8688",
-    "address": "450 Highway 99 N",
-    "updated": "7/30/2026\n                            \n                            \n                                8:34 AM"
-  },
-  {
-    "shelter": "ShelterCare Medical Respite",
-    "units": 0,
-    "phone": "541-461-2845",
-    "address": "780 Highway 99 N",
-    "updated": "7/23/2026\n                            \n                            \n                                8:41 AM"
-  },
-  {
-    "shelter": "*Springfield Overnight Parking",
-    "units": 0,
-    "phone": "",
-    "address": "",
-    "updated": "7/30/2026\n                            \n                            \n                                7:54 AM"
-  },
-  {
-    "shelter": "Roosevelt Safe Spot Community",
-    "units": 0,
-    "phone": "541-683-0836",
-    "address": "2031 Roosevelt Blvd",
-    "updated": "7/30/2026\n                            \n                            \n                                8:27 AM"
-  },
-  {
-    "shelter": "Community Supported Shelters",
-    "units": 0,
-    "phone": "541-683-0836",
-    "address": "1160 Grant St",
-    "updated": "7/30/2026\n                            \n                            \n                                8:27 AM"
+    "updated": "7/31/2026\n                            \n                            \n                                8:20 AM"
   },
   {
     "shelter": "310 Garfield Safe Sleep Site",
-    "units": 0,
+    "units": 7,
     "phone": "541-357-1220",
     "address": "310 Garfield St",
-    "updated": "7/30/2026\n                            \n                            \n                                10:22 AM"
+    "updated": "7/31/2026\n                            \n                            \n                                8:01 AM"
   },
   {
     "shelter": "River Ave Navigation Center",
@@ -95,21 +46,21 @@
     "units": 0,
     "phone": "541-525-0501",
     "address": "111 N Garfield St",
-    "updated": "7/30/2026\n                            \n                            \n                                10:37 AM"
+    "updated": "7/31/2026\n                            \n                            \n                                9:29 AM"
   },
   {
     "shelter": "410 Garfield Safe Sleep Site",
     "units": 0,
     "phone": "541-359-9860",
     "address": "410 Garfield St",
-    "updated": "7/30/2026\n                            \n                            \n                                10:22 AM"
+    "updated": "7/31/2026\n                            \n                            \n                                8:00 AM"
   },
   {
     "shelter": "Everyone Village",
     "units": 0,
     "phone": "541-505-7597",
     "address": "3825 Janisse St",
-    "updated": "7/30/2026\n                            \n                            \n                                8:02 AM"
+    "updated": "7/31/2026\n                            \n                            \n                                6:26 AM"
   },
   {
     "shelter": "969 Emergency Shelter- ShelterCare",
@@ -124,6 +75,55 @@
     "phone": "541-342-4293",
     "address": "2517 MLK Blvd",
     "updated": "6/9/2026\n                            \n                            \n                                11:16 AM"
+  },
+  {
+    "shelter": "Overnight Parking Program EUGENE",
+    "units": 0,
+    "phone": "541-461-8688",
+    "address": "450 Highway 99 N",
+    "updated": "7/31/2026\n                            \n                            \n                                7:37 AM"
+  },
+  {
+    "shelter": "ShelterCare Medical Respite",
+    "units": 0,
+    "phone": "541-461-2845",
+    "address": "780 Highway 99 N",
+    "updated": "7/23/2026\n                            \n                            \n                                8:41 AM"
+  },
+  {
+    "shelter": "*Springfield Overnight Parking",
+    "units": 0,
+    "phone": "",
+    "address": "",
+    "updated": "7/31/2026\n                            \n                            \n                                7:28 AM"
+  },
+  {
+    "shelter": "Roosevelt Safe Spot Community",
+    "units": 0,
+    "phone": "541-683-0836",
+    "address": "2031 Roosevelt Blvd",
+    "updated": "7/31/2026\n                            \n                            \n                                7:28 AM"
+  },
+  {
+    "shelter": "*Dusk to Dawn",
+    "units": 0,
+    "phone": "541-461-8688",
+    "address": "717 Highway 99 N",
+    "updated": "7/31/2026\n                            \n                            \n                                10:42 AM"
+  },
+  {
+    "shelter": "*1st Place Family Annex",
+    "units": 0,
+    "phone": "541-342-7728",
+    "address": "4060 W Amazon Dr",
+    "updated": "7/30/2026\n                            \n                            \n                                8:15 AM"
+  },
+  {
+    "shelter": "Community Supported Shelters",
+    "units": 0,
+    "phone": "541-683-0836",
+    "address": "1160 Grant St",
+    "updated": "7/31/2026\n                            \n                            \n                                7:28 AM"
   },
   {
     "shelter": "*OASIS Emergency Family Shelter",
