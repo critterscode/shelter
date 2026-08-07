@@ -8,73 +8,38 @@
   },
   {
     "shelter": "*Eugene Mission Rescue Shelter",
-    "units": 14,
+    "units": 17,
     "phone": "541-344-3251",
     "address": "1542 W 1st Ave",
-    "updated": "8/6/2026\n                            \n                            \n                                8:39 AM"
+    "updated": "8/7/2026\n                            \n                            \n                                6:36 AM"
   },
   {
     "shelter": "*Station 7",
-    "units": 7,
+    "units": 5,
     "phone": "541-689-3111",
     "address": "931 W 7th Ave",
-    "updated": "8/6/2026\n                            \n                            \n                                8:10 AM"
+    "updated": "8/7/2026\n                            \n                            \n                                8:02 AM"
+  },
+  {
+    "shelter": "*Dusk to Dawn",
+    "units": 3,
+    "phone": "541-461-8688",
+    "address": "717 Highway 99 N",
+    "updated": "8/7/2026\n                            \n                            \n                                10:08 AM"
   },
   {
     "shelter": "310 Garfield Safe Sleep Site",
     "units": 3,
     "phone": "541-357-1220",
     "address": "310 Garfield St",
-    "updated": "8/6/2026\n                            \n                            \n                                9:13 AM"
-  },
-  {
-    "shelter": "*Dusk to Dawn",
-    "units": 2,
-    "phone": "541-461-8688",
-    "address": "717 Highway 99 N",
-    "updated": "8/6/2026\n                            \n                            \n                                9:36 AM"
-  },
-  {
-    "shelter": "*1st Place Family Annex",
-    "units": 0,
-    "phone": "541-342-7728",
-    "address": "4060 W Amazon Dr",
-    "updated": "8/6/2026\n                            \n                            \n                                11:19 AM"
-  },
-  {
-    "shelter": "Overnight Parking Program EUGENE",
-    "units": 0,
-    "phone": "541-461-8688",
-    "address": "450 Highway 99 N",
-    "updated": "8/6/2026\n                            \n                            \n                                8:03 AM"
-  },
-  {
-    "shelter": "ShelterCare Medical Respite",
-    "units": 0,
-    "phone": "541-461-2845",
-    "address": "780 Highway 99 N",
-    "updated": "7/23/2026\n                            \n                            \n                                8:41 AM"
-  },
-  {
-    "shelter": "*Springfield Overnight Parking",
-    "units": 0,
-    "phone": "",
-    "address": "",
-    "updated": "8/6/2026\n                            \n                            \n                                8:04 AM"
-  },
-  {
-    "shelter": "Roosevelt Safe Spot Community",
-    "units": 0,
-    "phone": "541-683-0836",
-    "address": "2031 Roosevelt Blvd",
-    "updated": "8/6/2026\n                            \n                            \n                                9:46 AM"
+    "updated": "8/7/2026\n                            \n                            \n                                7:37 AM"
   },
   {
     "shelter": "River Ave Navigation Center",
     "units": 0,
     "phone": "541-897-9771",
     "address": "100 River Ave",
-    "updated": "8/6/2026\n                            \n                            \n                                8:43 AM"
+    "updated": "8/7/2026\n                            \n                            \n                                6:55 AM"
   },
   {
     "shelter": "Brooklyn Street",
@@ -88,21 +53,21 @@
     "units": 0,
     "phone": "541-525-0501",
     "address": "111 N Garfield St",
-    "updated": "8/6/2026\n                            \n                            \n                                3:26 PM"
+    "updated": "8/7/2026\n                            \n                            \n                                9:26 AM"
   },
   {
     "shelter": "410 Garfield Safe Sleep Site",
     "units": 0,
     "phone": "541-359-9860",
     "address": "410 Garfield St",
-    "updated": "8/6/2026\n                            \n                            \n                                9:13 AM"
+    "updated": "8/7/2026\n                            \n                            \n                                7:38 AM"
   },
   {
     "shelter": "Everyone Village",
     "units": 0,
     "phone": "541-505-7597",
     "address": "3825 Janisse St",
-    "updated": "8/6/2026\n                            \n                            \n                                6:27 AM"
+    "updated": "8/7/2026\n                            \n                            \n                                9:05 AM"
   },
   {
     "shelter": "969 Emergency Shelter- ShelterCare",
@@ -117,6 +82,41 @@
     "phone": "541-342-4293",
     "address": "2517 MLK Blvd",
     "updated": "6/9/2026\n                            \n                            \n                                11:16 AM"
+  },
+  {
+    "shelter": "*1st Place Family Annex",
+    "units": 0,
+    "phone": "541-342-7728",
+    "address": "4060 W Amazon Dr",
+    "updated": "8/7/2026\n                            \n                            \n                                6:16 AM"
+  },
+  {
+    "shelter": "Overnight Parking Program EUGENE",
+    "units": 0,
+    "phone": "541-461-8688",
+    "address": "450 Highway 99 N",
+    "updated": "8/7/2026\n                            \n                            \n                                7:45 AM"
+  },
+  {
+    "shelter": "ShelterCare Medical Respite",
+    "units": 0,
+    "phone": "541-461-2845",
+    "address": "780 Highway 99 N",
+    "updated": "7/23/2026\n                            \n                            \n                                8:41 AM"
+  },
+  {
+    "shelter": "*Springfield Overnight Parking",
+    "units": 0,
+    "phone": "",
+    "address": "",
+    "updated": "8/7/2026\n                            \n                            \n                                7:16 AM"
+  },
+  {
+    "shelter": "Roosevelt Safe Spot Community",
+    "units": 0,
+    "phone": "541-683-0836",
+    "address": "2031 Roosevelt Blvd",
+    "updated": "8/6/2026\n                            \n                            \n                                9:46 AM"
   },
   {
     "shelter": "*OASIS Emergency Family Shelter",
